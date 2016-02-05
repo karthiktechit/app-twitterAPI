@@ -1,0 +1,36 @@
+body{
+    background-color: #d0e485;
+    border: 5px;
+}
+input[type=text] {
+    padding: 10px;
+    height: 30px;
+    margin: 5px 5px 0 0;    
+    position: relative;
+    left: 0;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+    box-shadow: 0 4px 6px -5px hsl(0, 0%, 40%), inset 0px 4px 6px -5px hsl(0, 0%, 2%)
+}
+.home-screen {
+    width: 100 %;
+    margin: 10px auto;
+}
+.tweet-view{
+    border: 1px solid #7c6472;
+    height: auto;
+    background-color: white;
+    padding: 2px 2px;
+    width:49%;
+    float:left;
+}
+.tweet-view img{
+    height: 130px;
+}
+@media only screen and (max-width: 600px) {
+    .tweet-view{
+        width:100%;
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "browserify": "*",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-notify": "*",
+    "jquery": "^2.2.0",
+    "ntwitter": "^0.5.0",
+    "react": "*",
+    "react-dom": "*",
+    "reactify": "*",
+    "require": "^2.4.20",
+    "tweet-to-html": "^1.0.2",
+    "twitter": "^1.2.5",
+    "vinyl-source-stream": "*"
+  }
+}
