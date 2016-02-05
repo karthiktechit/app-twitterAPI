@@ -1,4 +1,4 @@
-## Job Search application ##
+## Twitter API Integration and view ##
 
 ### Application built with React.js, RequireJS
 
